@@ -10,4 +10,7 @@ Write a program that reads a rating from the user and indicates whether the perf
 
 
 
+👇👇👇🤙
 
+[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Assessing_Employees
+)](https://repl.it/github/isennkubilay/Assessing_Employees)
